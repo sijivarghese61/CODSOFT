@@ -1,4 +1,4 @@
-#CODSOFT Internship Projects 📁
+# CODSOFT Internship Projects 📁
 Welcome to my Repository for CODSOFT internship projects! Inside this repository, you'll discover the projects I've tackled during my internship at CODSOFT. These projects showcases the skills and expertise I've acquired. All project codes are crafted in Python 🐍 and developed with VS code 💻
 
 # Table of Contents
